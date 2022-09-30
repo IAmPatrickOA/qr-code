@@ -3,7 +3,7 @@ body {
 font-family: 'Merriweather Sans', sans-serif;
 }
 
-main {
+.main {
   background-color: #D2DAFF;
   padding: 6.25em 0 3.125em;
 }
