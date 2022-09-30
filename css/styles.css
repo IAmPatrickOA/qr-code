@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: 'Merriweather Sans', sans-serif;
-  font-size: 0.8125em;
+  font-size: 1em;
 }
 
 .main {
@@ -46,7 +46,7 @@ h1 {
 .attribution {
   color: #25316D;
   margin: auto;
-  width: 20%;
+  width: 50%;
   text-align: center;
 }
 
