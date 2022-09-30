@@ -3,9 +3,8 @@ body {
 font-family: 'Merriweather Sans', sans-serif;
 }
 
-.background {
+main {
   background-color: #D2DAFF;
-  position: relative;
   padding: 100px 0 50px;
 }
 
@@ -33,13 +32,13 @@ font-family: 'Merriweather Sans', sans-serif;
 
 h1 {
   color: #25316D;
-  font-size: 16px;
+  font-size: 1em;
   text-align: center;
 }
 
 .text {
   color:#3F4E4F;
-  font-size: 12px;
+  font-size: 0.7em;
   text-align: center;
 }
 
