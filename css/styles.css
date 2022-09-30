@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+font-family: 'Merriweather Sans', sans-serif;
+}
+
+.background {
+  background-color: #D2DAFF;
+  position: relative;
+  padding: 100px 0 50px;
+}
+
+.qr {
+  padding: 10px;
+}
+
+.qr-code {
+  width: 230px;
+  height: 230px;
+  border-radius: 10px;
+  margin: auto;
+}
+
+.bg-white {
+  background-color: #FFFFFF;
+  border-radius: 15px;
+  width: 250px;
+  margin: auto;
+}
+
+.textarea {
+  padding: 0 20px 20px;
+}
+
+h3 {
+  color: #25316D;
+  font-size: 16px;
+  text-align: center;
+}
+
+.text {
+  color:#3F4E4F;
+  font-size: 12px;
+  text-align: center;
+}
+
+.attribution {
+  color: #25316D;
+  margin: auto;
+  width: 20%;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FFFFFF;
+}
