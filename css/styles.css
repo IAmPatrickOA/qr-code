@@ -1,30 +1,22 @@
 body {
+  background-color: #D2DAFF;
   margin: 0;
   font-family: 'Merriweather Sans', sans-serif;
   font-size: 1em;
-}
-
-.main {
-  background-color: #D2DAFF;
-  padding: 6.25em 0 12.5em;
-}
-
-.qr {
-  padding: 10px;
 }
 
 .qr-code {
   width: 230px;
   height: 230px;
   border-radius: 10px;
-  margin: auto;
+  margin: 10px;
 }
 
 .bg-white {
   background-color: #FFFFFF;
   border-radius: 15px;
   width: 250px;
-  margin: auto;
+  margin: 200px auto 0;
 }
 
 .textarea {
@@ -48,6 +40,7 @@ h1 {
   margin: auto;
   width: 50%;
   text-align: center;
+  margin-bottom: 200px;
 }
 
 a {
